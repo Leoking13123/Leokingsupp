@@ -1,5 +1,5 @@
 body {
-    background-image: url(png.png);
+    background-image: url(la.png);
        background-attachment: fixed;
        background-size: cover;
        text-align: center;
@@ -87,41 +87,3 @@ body {
     .btn {
        display: inline-block;
        padding: 10px 45px;
-       border: 2px solid #41024d;
-       color: #e40c0c;
-       text-decoration: none;
-       background: #d30b1b;
-    }
-    
-    .btn:hover {
-       background: none;
-    }
-    
-    .btn-home {
-       display: flex;
-    }
-    
-    .btn-home a {
-       margin: 0 10px;
-    }
-    
-    .content {
-       height: 50vh;
-       display: flex;
-       flex-direction: column;
-       justify-items: center;
-       align-items: center;
-    }
-    
-    nav {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: 20px;
-    padding-left: 5%;
-    padding-right: 5%;
-    font-weight: bold;
-    }
-
-
- 
